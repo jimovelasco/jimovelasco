@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jimovelasco
-- 👀 I’m interested in coding, robotics and anything science. 
-- 🌱 I’m currently learning front end developing.
-- 📫 Email: jimov666@gmail.com
+- 👀 I’m interested in programming, machine learning and design. 
+- 📫 Email: velascojeremiahd@gmail.com
 
 <!---
 jimovelasco/jimovelasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
